@@ -1,0 +1,12 @@
+# basic options
+title: it me turn
+author: james pardon
+email: chrishuong95@gmail.com
+description: this where im gon build my academic page
+twitter_username: topherhuong
+github_username:  topherhuong
+instagram_username: topherhuong
+
+# Build settings
+markdown: kramdown
+theme: leonids
